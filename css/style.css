@@ -1,9 +1,13 @@
-h2.intro{
-  color: Blue;
+.intro{
   font-style: oblique;
+  color : #550077;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
+  border: 50px Red;
+  Padding: 10px;
 }
-p.intro{
+/* p.intro{
   color : #550077;
   margin-left: 30px;
   margin-right: auto;
@@ -14,4 +18,4 @@ img.intro{
   margin: auto;
   border: 50px Red;
   Padding: 10px;
-}
+} */
