@@ -1,0 +1,17 @@
+h2.intro{
+  color: Blue;
+  font-style: oblique;
+  text-align: center;
+}
+p.intro{
+  color : #550077;
+  margin-left: 30px;
+  margin-right: auto;
+  text-align: center;
+}
+img.intro{
+  width: 50%;
+  margin: auto;
+  border: 50px Red;
+  Padding: 10px;
+}
