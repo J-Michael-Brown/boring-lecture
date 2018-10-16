@@ -1,3 +1,7 @@
+body {
+  text-align: center;
+}
+
 .intro{
   font-style: oblique;
   color : #550077;
@@ -7,15 +11,21 @@
   border: 50px Red;
   Padding: 10px;
 }
-/* p.intro{
-  color : #550077;
-  margin-left: 30px;
-  margin-right: auto;
-  text-align: center;
-} */
+
 .intro img{
   width: 50%;
   margin: auto;
   border: 50px Red;
   Padding: 10px;
 }
+
+p:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.highlighted {
+   background-color: yellow;
+   color: black;
+   font-size: 15px;
+ }
